@@ -1,4 +1,4 @@
-# Bare Backstreets v0.6.5
+# Bare Backstreets v0.6.7
 ## _Login bypass patch_
 
 ### How to install:
