@@ -1,4 +1,4 @@
-# Bare Backstreets v0.6.6
+# Bare Backstreets v0.6.8
 ## _Pin bypass patch_
 
 ### How to install:
